@@ -1,4 +1,3 @@
-#NoTrade
 
 Welcome to NoTrade!
 
@@ -6,5 +5,5 @@ This is a Skript script, I hope you like it.I hope to learn the Skript script wi
 
 Thank you for browsing and using!
 
-I am Chinese.
+I am a Chinese.
 I want to make some good works.
