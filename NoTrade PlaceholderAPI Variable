@@ -3,6 +3,8 @@
 %notrade_allfm% Total player logging count
 %notrade_allmz% Total player hits record
 %notrade_allcj% Total player cut count
-%notrade_kill% Total player kills record
-%notrade_join% Total player join count
-%notrade_quit% Total player quit count
+%notrade_allkill% Total player kills record
+%notrade_alljoin% Total player join count
+%notrade_allquit% Total player quit count
+%notrade_grallkill% Individual kill number record
+%notrade_grpvpkill% Personal killing count
